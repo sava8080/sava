@@ -1,4 +1,12 @@
-{
-    "users": [
+
+   { "users": 
+        [
+            {
+        "id": 1,
+        "name": "Oleksandra",
+        "surname": "Denysiuk",
+        "photo_url": "https://my-apple.com.ua/image/catalog/products/iphone/iphone-16-16-plus/pink-1.png",
+        "balance": 150000
+            }
     ]
-}
+   }

@@ -1,4 +1,11 @@
 {
     "users": [
+        {
+            "id": 6,
+            "name": "karas",
+            "surname": "okun",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdGHVk4L55MiDSyKFKz7jZGpUwKXnIgtUJQ&s",
+            "balance": 10000000
+        }
     ]
 }

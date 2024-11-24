@@ -1,15 +1,55 @@
+
+
+{ "users": 
+[
+    {
+"id": 1,
+"name": "Oleksandra",
+"surname": "Denysiuk",
+"photo_url": "https://my-apple.com.ua/image/catalog/products/iphone/iphone-16-16-plus/pink-1.png",
+"balance": 150000
+    }
+]
+}
+
 "users": [
 
-    {
-        "id": 4,
-        "name": "Sava",
-        "surname": "Sava8080",
-        "photo_url": "https://www.liveabout.com/thmb/bziKthA2Qv5XXBIqPVxhh7u5GkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2016__10__PetSematary-Screengrab2-38063109560a43e798ff11fb3d189715.png",
-        "balance": 1500
-    }
+{
+"id": 4,
+"name": "Sava",
+"surname": "Sava8080",
+"photo_url": "https://www.liveabout.com/thmb/bziKthA2Qv5XXBIqPVxhh7u5GkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2016__10__PetSematary-Screengrab2-38063109560a43e798ff11fb3d189715.png",
+"balance": 1500
+}
 
 
 {    
 }
 
+]
+
+
+"users": [ {
+"id":2,
+"name": "Oleksiy",
+"surname": "Anisimov",
+"photo_url":"https://media.newyorker.com/photos/59095bb86552fa0be682d9d0/master/pass/Monkey-Selfie.jpg ",
+"balance": 999999
+}
+]
+
+"users": [ {
+"id":3,
+"name": "Bodya",
+"surname": "Svarka",
+"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7f1hxnqyBBKQOI09PKFcdpnFHyQICxTUmg&s ",
+"balance": 999999
+}
+]
+
+
+"products": [
+    "ogyrechki",
+    "arbuz",
+    "bogdan gitler"
 ]

@@ -77,12 +77,7 @@
 ]
 
 
-"products": [
-    "ogyrechki",
-    "arbuz",
-    "bogdan gitler",
-    "pomidorka"
-]
+
 =======
     "id":2,
     "name": "Oleksiy",
@@ -110,3 +105,10 @@
 ]
 ]
 >>>>>>> e2060a51bb1aece9f9d4f4ded9d49dfc21c39172
+"products": [
+    "ogyrechki",
+    "arbuz",
+    "bogdan gitler",
+    "pomidorka",
+    "ketchup"
+]

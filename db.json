@@ -57,4 +57,13 @@
     "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7f1hxnqyBBKQOI09PKFcdpnFHyQICxTUmg&s ",
     "balance": 999999
 }
+"users" : [
+    {
+    "id": 5 ,
+    "name" : "vlad" ,
+    "surname" : "overchuk" ,
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2UoKyN61H-7pji5xrj1hoH1u4spsrBHCbFA&s" , 
+    "balance": 1500
+    }
+]
 ]

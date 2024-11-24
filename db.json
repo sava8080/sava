@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 { "users": 
@@ -11,6 +12,33 @@
     }
 ]
 }
+=======
+<<<<<<< HEAD
+{
+    "users": [
+        {
+            "id": 6,
+            "name": "karas",
+            "surname": "okun",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdGHVk4L55MiDSyKFKz7jZGpUwKXnIgtUJQ&s",
+            "balance": 10000000
+        }
+=======
+
+
+   { "users": 
+        [
+            {
+        "id": 1,
+        "name": "Oleksandra",
+        "surname": "Denysiuk",
+        "photo_url": "https://my-apple.com.ua/image/catalog/products/iphone/iphone-16-16-plus/pink-1.png",
+        "balance": 150000
+            }
+>>>>>>> 45d2a447c2ccd2570c418b6b2c4e0286a9f68e59
+    ]
+   }
+>>>>>>> e2060a51bb1aece9f9d4f4ded9d49dfc21c39172
 
 "users": [
 
@@ -30,6 +58,7 @@
 
 
 "users": [ {
+<<<<<<< HEAD
 "id":2,
 "name": "Oleksiy",
 "surname": "Anisimov",
@@ -53,3 +82,30 @@
     "arbuz",
     "bogdan gitler"
 ]
+=======
+    "id":2,
+    "name": "Oleksiy",
+    "surname": "Anisimov",
+    "photo_url":"https://media.newyorker.com/photos/59095bb86552fa0be682d9d0/master/pass/Monkey-Selfie.jpg ",
+    "balance": 999999
+}
+]
+ 
+"users": [ {
+    "id":3,
+    "name": "Bodya",
+    "surname": "Svarka",
+    "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7f1hxnqyBBKQOI09PKFcdpnFHyQICxTUmg&s ",
+    "balance": 999999
+}
+"users" : [
+    {
+    "id": 5 ,
+    "name" : "vlad" ,
+    "surname" : "overchuk" ,
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2UoKyN61H-7pji5xrj1hoH1u4spsrBHCbFA&s" , 
+    "balance": 1500
+    }
+]
+]
+>>>>>>> e2060a51bb1aece9f9d4f4ded9d49dfc21c39172

@@ -1,4 +1,10 @@
-{
-    "users": [
-    ]
-}
+"users": [
+    {
+        "id": 4,
+        "name": "Sava",
+        "surname": "Sava8080",
+        "photo_url": "https://www.liveabout.com/thmb/bziKthA2Qv5XXBIqPVxhh7u5GkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2016__10__PetSematary-Screengrab2-38063109560a43e798ff11fb3d189715.png",
+        "balance": 1500
+    }
+
+]

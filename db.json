@@ -37,3 +37,12 @@
     "balance": 999999
 }
 ]
+ 
+"users": [ {
+    "id":3,
+    "name": "Bodya",
+    "surname": "Svarka",
+    "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7f1hxnqyBBKQOI09PKFcdpnFHyQICxTUmg&s ",
+    "balance": 999999
+}
+]
